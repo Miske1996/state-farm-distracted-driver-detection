@@ -1,4 +1,4 @@
-# State farm distracted driver detection Kaggle competition using Fastai Library
+# State farm distracted driver detection Kaggle competition using Fastai Library (99.59 % Accuracy)
 
 We've all been there: a light turns green and the car in front of you doesn't budge. Or, a previously unremarkable vehicle suddenly slows and starts swerving from side-to-side.
 
